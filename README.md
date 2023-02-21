@@ -11,4 +11,5 @@ members table and a small briefing
 | 6 | 2018013 | [profile link](https://github.com/giormaster) |
 | 7 | 2019193 | [profile link](https://github.com/TheodorosKontos) |
 
-Welcome! Feel free to update the table with your info when you join. Soon a team will be created and a discussion space in order to help every one on the organization.
+
+Καλώς ήρθατε. Στο τμήμα discussions μπορείτε να επικοινωνήσετε με τα υπόλοιπα μέρη της ομάδας και να ενημερωθείτε για τις εξελίξεις στο μάθημα. 
