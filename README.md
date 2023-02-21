@@ -4,7 +4,7 @@ members table and a small briefing
 | # | ΑΜ | GitHub profile |
 | -- | -- | -- |
 | 1 | 2019130 | [profile link](https://github.com/vasilis22) |
-| 2 | 2019130 | [profile link](https://github.com/chrislach1) |
+| 2 | 2018012 | [profile link](https://github.com/chrislach1) |
 | 3 | 2019016 | [profile link](https://github.com/Thomasth01) |
 | 4 | 2019038 | [profile link](https://github.com/p19loli) |
 | 5 | 2019169 | [profile link](https://github.com/TaniaStoupi) |
