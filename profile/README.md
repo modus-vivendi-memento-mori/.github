@@ -10,6 +10,6 @@ members table and a small briefing
 | 5 | 2019169 | [profile link](https://github.com/TaniaStoupi) |
 | 6 | 2018013 | [profile link](https://github.com/giormaster) |
 | 7 | 2019193 | [profile link](https://github.com/TheodorosKontos) |
-
+| 8 | 2019044 | [profile link](https://github.com/p2019044) |
 
 Καλώς ήρθατε. Στο τμήμα discussions μπορείτε να επικοινωνήσετε με τα υπόλοιπα μέρη της ομάδας και να ενημερωθείτε για τις εξελίξεις στο μάθημα. 
