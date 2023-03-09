@@ -12,5 +12,6 @@ members table and a small briefing
 | 7 | 2019193 | [profile link](https://github.com/TheodorosKontos) |
 | 8 | 2019044 | [profile link](https://github.com/p2019044) |
 | 9 | 2019080 | [profile link](https://github.com/GiorgosChiras) |
+| 10 | 2019194 | [profile link](https://github.com/makisgrammenos) |
 
 Καλώς ήρθατε. Στο τμήμα discussions μπορείτε να επικοινωνήσετε με τα υπόλοιπα μέρη της ομάδας και να ενημερωθείτε για τις εξελίξεις στο μάθημα. 
